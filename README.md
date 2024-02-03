@@ -17,6 +17,7 @@ $ git clone https://github.com/LucasSimoesSilva/NetflixChallenge.git
 
 # Go to the project folder
 $ cd NetflixChallenge
+$ cd NetflixProject
     
 ```
 
