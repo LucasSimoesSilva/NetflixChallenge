@@ -2,7 +2,7 @@
 
 <p id="description">The project aims to replicate the Netflix graphical interface in a basic way.</p>
 
-![Alt text](/img/Demo.png)
+![Alt text](/NetflixProject/img/Demo.png)
 </br>
 <h2>🧐 Features</h2>
 
