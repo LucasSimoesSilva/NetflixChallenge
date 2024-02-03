@@ -8,23 +8,28 @@
 
 *   You can move movie options responsively
 </br>
-<h2>🛠️ How to use:</h2>
 
-- In the terminal
-```
-# Clone the project
-$ git clone https://github.com/LucasSimoesSilva/NetflixChallenge.git
-
-# Go to the project folder
-$ cd NetflixChallenge
-$ cd NetflixProject
-    
-```
-
-- So open the index.html in your favorite browser
-</br>  
 <h2>💻 Built with</h2>
 
 *   Java Script
 *   HTML
 *   CSS
+*   Visual Studio Code 1.86
+
+</br>
+
+<h2>🛠️ How to use:</h2>
+
+- You need [Git](https://git-scm.com/)
+- In the terminal:
+
+```bash
+# Clone the project
+$ git clone https://github.com/LucasSimoesSilva/NetflixChallenge.git
+
+# Go to the project folder
+$ cd NetflixChallenge
+$ cd NetflixProject 
+```
+
+- So open the index.html in your favorite browser
